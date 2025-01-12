@@ -1,16 +1,19 @@
 ## Hi there 👋
+# 
 
-<!--
-**JavierVargasData/JavierVargasData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi primer repositorio en GitHub. Aquí encontrarás proyectos de ejemplo y recursos relacionados con el desarrollo de software.
 
-Here are some ideas to get you started:
+## Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fsoyquechua.org%2F)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JavierVargasData/JavierVargasData)
+
+## Descripción
+
+Este repositorio es una colección de proyectos de ejemplo que incluyen diversas tecnologías como HTML, JavaScript y más. En él, aprenderé y experimentaré con diferentes herramientas y frameworks.
+
+## Proyecto
+
+- **Tecnologías utilizadas**: HTML, JavaScript, Git, GitHub.
+- **Objetivo**: Mejorar mis habilidades de programación y colaborar con otros desarrolladores.
+
